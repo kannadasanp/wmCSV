@@ -1,0 +1,51 @@
+SKU,INVENTORY,PRODUCT_ID,ITEM_TYPE,PRICE,WEIGHTPRICE,LOS,BADGE_INFO,AVAILABILITYSTOREID,FSA,OFFERID,GMAVAILABILITY,GROCERYAVAILABILITY,COMMENTS,PREORDER,STREETDATE,ISHAZMAT,ISORMD,ISSHIPVIAAIR,ISSHIPALONE,ISPERISHABLE,OFFERTYPE
+10317911,1000000,,GM,120,,STANDARD||EXPRESS,Clearance,5540,K1C,10317911,Available,NotSold,1st party In-stock Clearance,,,false,false,false,false,false,1P
+10298592,1000000,,GM,4.97,,STANDARD,Rollback,5540,K1C,10298592,Available,NotSold,1st party In-stock Rollback,,,false,false,false,false,false,1P
+10043165,1000000,,MX,7.97,,STANDARD,Rollback,5540,K1C,10043165,Available,Available,1st party In-stock Mixed Item,,,false,false,false,false,false,1P
+10151472,0,,GM,20,,STANDARD,,,K1C,10151472,OutOfStock,NotSold,1st party OutOfStock,,,false,false,false,false,false,1P
+10151390,0,,GM,21,,STANDARD,,,K1C,10151390,OutOfStock,NotSold,1st party OutOfStock,,,false,false,false,false,false,1P
+10150779,0,,GM,22,,STANDARD,,,K1C,10150779,OutOfStock,NotSold,1st party OutOfStock,,,false,false,false,false,false,1P
+10151054,0,,GM,23,,STANDARD,,,K1C,10151054,OutOfStock,NotSold,1st party OutOfStock,,,false,false,false,false,false,1P
+10151543,0,,GM,24,,STANDARD,,,K1C,10151543,OutOfStock,NotSold,1st party OutOfStock,,,false,false,false,false,false,1P
+206498,0,,GO,5.99,,STANDARD,,"5540,5538,3065",K1C,206498,OutOfStock,Available,"GM OOS and Eligible for 5540,5538,3065",,,false,false,false,false,false,1P
+10192991,0,,GO,6.99,,STANDARD,,"5540,5538,3065",K1C,10192991,OutOfStock,Available,"GM OOS and Eligible for 5540,5538,3065",,,false,false,false,false,false,1P
+6000196610272,10000,,GM,6.88,,STANDARD,,,K1C,6000196610272,Available,NotSold,,,,false,false,false,false,false,1P
+10139430,100000,,GM,21.47,,STANDARD,,,K1C,10139430,Available,NotSold,,,,false,false,false,false,false,1P
+134455,100000,,GM,10,,STANDARD,,,K1C,134455,Available,NotSold,,,,false,false,false,false,false,1P
+6000196422586,100000,,GM,10,,STANDARD,,,K1C,6000196422586,Available,NotSold,,,,false,false,false,false,false,1P
+10274265,100000,,MX,8.47,,STANDARD,,"5540,5538,3065",K1C,10274265,Available,Available,,,,false,false,false,false,false,1P
+875806,0,,GO,11.34,58.83,STANDARD,,"5540,5538,3065",K1C,875806,OutOfStock,Available,,,,false,false,false,false,false,1P
+10317277,0,,GO,1,,STANDARD,,"5540,5538,3065",K1C,10317277,OutOfStock,Available,,,,false,false,false,false,false,1P
+10243879,0,,GO,6.97,,STANDARD,,"5540,5538,3065",K1C,10243879,OutOfStock,Available,,,,false,false,false,false,false,1P
+131761,100000,,GM,5.97,,STANDARD,,,K1C,131761,Available,NotSold,,,,false,false,false,false,false,1P
+10068572,100000,,GM,5,,STANDARD,,,K1C,10068572,Available,NotSold,,,,false,false,false,false,false,1P
+10044284,100000,,GM,49.98,,STANDARD,,,K1C,10044284,Available,NotSold,,,,false,false,false,false,false,1P
+10242997,100000,,GM,11.97,,STANDARD,,,K1C,10242997,Available,NotSold,,,,false,false,false,false,false,1P
+10043319,100000,,GM,29,,STANDARD,,,K1C,10043319,Available,NotSold,,,,false,false,false,false,false,1P
+6000192911549,100000,,GM,24.97,,STANDARD,,,K1C,6000192911549,Available,NotSold,,,,false,false,false,false,false,1P
+6000193375243,100000,,GM,49.97,,STANDARD,,,K1C,6000193375243,Available,NotSold,,,,false,false,false,false,false,1P
+10024546,100000,,GM,8.97,,STANDARD,,,K1C,10024546,Available,NotSold,,,,false,false,false,false,false,1P
+10137600,100000,,GM,168,,STANDARD,,,K1C,10137600,Available,NotSold,,,,false,false,false,false,false,1P
+6000188764412,100000,,GM,7.82,,STANDARD,,,K1C,6000188764412,Available,NotSold,,,,false,false,false,false,false,1P
+6000188959796,100000,,GM,1.67,,STANDARD,,,K1C,6000188959796,Available,NotSold,,,,false,false,false,false,false,1P
+6000189678404,100000,,GM,2,,STANDARD,,,K1C,6000189678404,Available,NotSold,,,,false,false,false,false,false,1P
+10136598,100000,,GM,5,,STANDARD,,,K1C,10136598,Available,NotSold,,TRUE,"""2026-12-31T13:00:00Z""",false,false,false,false,false,1P
+10301172,100000,,GM,20,,STANDARD,,,K1C,10301172,Available,NotSold,,TRUE,"""2026-12-31T13:00:00Z""",false,false,false,false,false,1P
+2YNFOHL1DJVM,1000000,2YNFOHL1DJVM,GM,19.99,,STANDARD,,5540,K1C,6B0AE8B202E1495FADBBEC27B9CC9925,Available,NotSold,3rd party GM,,,false,false,false,false,false,3P
+7JYADCV5D6ZN,1000000,7JYADCV5D6ZN,GM,19.99,,STANDARD,,5540,K1C,F1C76FD559C648A1A19D6F4E6A5511C6,Available,NotSold,3rd party GM,,,false,false,false,false,false,3P
+0VDSF35UY81C,1000000,0VDSF35UY81C,GM,19.19,,STANDARD,,5540,K1C,7503FF2D1BB44DB8902A5B319BB12E7C,Available,NotSold,3rd party GM,,,false,false,false,false,false,3P
+2PTG0W5SSM2G,1000000,2PTG0W5SSM2G,GM,19.19,,STANDARD,,5540,K1C,9EAEDB365FAA4C438D58CE36375873D0,Available,NotSold,3rd party GM,,,false,false,false,false,false,3P
+4W8QITLKZC05,1000000,4W8QITLKZC05,GM,19.19,,STANDARD,,5540,K1C,B7FF5A6B38D842C793AA94D7F968903B,Available,NotSold,3rd party GM,,,false,false,false,false,false,3P
+4EULCXTRBKX3,1000000,4EULCXTRBKX3,GM,19.19,,STANDARD,,5540,K1C,CF4C98873F13426C96141D7412BC1A46,Available,NotSold,3rd party GM,,,false,false,false,false,false,3P
+5YKKQC963JGL,1000000,5YKKQC963JGL,GM,19.19,,STANDARD,,5540,K1C,32A04CA5C9C64C038927E559B63FBB05,Available,NotSold,3rd party GM,,,false,false,false,false,false,3P
+6E2EQAJ1181Z,1000000,6E2EQAJ1181Z,GM,19.19,,STANDARD,,5540,K1C,88AABE4BB28F4F4581E9C9227D6BAD32,Available,NotSold,3rd party GM,,,false,false,false,false,false,3P
+6FOHYDU5I7VK,1000000,6FOHYDU5I7VK,GM,19.19,,STANDARD,,5540,K1C,7791952B441B4BE898A25DA756AF3E8F,Available,NotSold,3rd party GM,,,false,false,false,false,false,3P
+55HBGH3QO8J5,1000000,55HBGH3QO8J5,GM,19.19,,STANDARD,,5540,K1C,2E2FC979C669492D84D88B3948AB5942,Available,NotSold,3rd party GM,,,false,false,false,false,false,3P
+4UMZ7YCKOBKH,1000000,4UMZ7YCKOBKH,GM,19.19,,STANDARD,,5540,K1C,3CC32B0D534645089E41D3DCD622E38E,Available,NotSold,3rd party GM,,,false,false,false,false,false,3P
+12TFR3V491TS,1000000,12TFR3V491TS,GM,19.19,,STANDARD,,5540,K1C,4BA2E54FBFAE47D895AD00F9F8E55BF3,Available,NotSold,3rd party GM,,,false,false,false,false,false,3P
+6UM7NEMKZHUP,1000000,6UM7NEMKZHUP,GM,19.19,,STANDARD,,5540,K1C,3045FB15446D444D9AE453D3D4DF6CA0,Available,NotSold,3rd party GM,,,false,false,false,false,false,3P
+6M86HNGXZCIU,1000000,6M86HNGXZCIU,GM,19.19,,STANDARD,,5540,K1C,FE62D243DF4D4B5399F7A5083CA0CA97,Available,NotSold,3rd party GM,,,false,false,false,false,false,3P
+4E9WFEH207KM,1000000,4E9WFEH207KM,GM,19.19,,STANDARD,,5540,K1C,23F63C053A8A43569C079CF12BDBC547,Available,NotSold,3rd party GM,,,false,false,false,false,false,3P
+468Y98ALTJU0,1000000,468Y98ALTJU0,GM,19.19,,STANDARD,,5540,K1C,2F746BC22FAC4CF7BFCEC43B37AB901A,Available,NotSold,3rd party GM,,,false,false,false,false,false,3P
+38WGSKAVI9V6,1000000,38WGSKAVI9V6,GM,19.19,,STANDARD,,5540,K1C,48E090C094D0484188364EE6699FEA41,Available,NotSold,3rd party GM,,,false,false,false,false,false,3P
+5JH8POBCIEIT,1000000,5JH8POBCIEIT,GM,19.19,,STANDARD,,5540,K1C,CAF16E722DB74F129D086727B6F67CF1,Available,NotSold,3rd party GM,,,false,false,false,false,false,3P
